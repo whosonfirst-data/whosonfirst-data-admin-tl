@@ -61,7 +61,7 @@
         "wk:page":"Aissirimou"
     },
     "wof:country":"TL",
-    "wof:geomhash":"43c7ae8a12cd2f2b563f8fe4decf2e1a",
+    "wof:geomhash":"9b07bcd279a0ea8765b7f23ebba0af08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     125.57146000000002,
     -8.72607
 ],
-  "geometry": {"coordinates":[125.57146000000002,-8.72607],"type":"Point"}
+  "geometry": {"coordinates":[125.57146,-8.72607],"type":"Point"}
 }

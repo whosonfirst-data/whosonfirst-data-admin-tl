@@ -56,7 +56,7 @@
         "wk:page":"Atsabe"
     },
     "wof:country":"TL",
-    "wof:geomhash":"590c2c8be89e12ab9392dbfd5df42718",
+    "wof:geomhash":"c0ddd8112ce234de40f898d9cfc32aec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     125.39806000000002,
     -8.925
 ],
-  "geometry": {"coordinates":[125.39806000000002,-8.925],"type":"Point"}
+  "geometry": {"coordinates":[125.39806,-8.925],"type":"Point"}
 }

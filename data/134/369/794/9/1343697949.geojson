@@ -42,7 +42,7 @@
         "gn:id":1944634
     },
     "wof:country":"TL",
-    "wof:geomhash":"3866bc231d67941076a0a829410fb450",
+    "wof:geomhash":"e6be8d0c3400386a0fa2c484de3be63e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     125.48111000000002,
     -8.76278
 ],
-  "geometry": {"coordinates":[125.48111000000002,-8.76278],"type":"Point"}
+  "geometry": {"coordinates":[125.48111,-8.76278],"type":"Point"}
 }
