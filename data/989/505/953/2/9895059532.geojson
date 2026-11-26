@@ -1,0 +1,72 @@
+{
+  "id": 9895059532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.71859,-8.57071,125.71859,-8.57071",
+    "geom:latitude":-8.57071,
+    "geom:longitude":125.71859,
+    "iso:country":"TL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11856537: name \"Manutane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11856537"
+        },
+        {
+            "citation":"GeoNames populated place 11856537: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11856537"
+        },
+        {
+            "citation":"GeoNames populated place 11856537: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11856537"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678957 (Aileu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632583,
+        85678957,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11856537
+    },
+    "wof:country":"TL",
+    "wof:geomhash":"25835ea0491cce9639d4c9865c9c8ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632583,
+            "locality_id":9895059532,
+            "region_id":85678957
+        }
+    ],
+    "wof:id":9895059532,
+    "wof:lastmodified":1795735210,
+    "wof:name":"Manutane",
+    "wof:parent_id":85678957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.71859,
+    -8.57071,
+    125.71859,
+    -8.57071
+],
+  "geometry": {"coordinates":[125.71859,-8.57071],"type":"Point"}
+}
